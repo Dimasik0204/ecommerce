@@ -1,0 +1,53 @@
+
+
+
+
+.checkoutImage {
+    width: 200px;
+    height: 180px;
+    
+}
+.mainCarousel {
+  width: 93%;
+  height: 45%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  
+  
+  /* height: auto; */
+ 
+}
+
+.mainPage {
+    margin-left: auto;
+    margin-right: auto;
+    width:90%;
+    height: auto;
+    margin-bottom: 20px;
+    display: block;
+    background-color: rgba(219, 236, 242, 0.64);
+}
+
+.mainTitle {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-family: 'Inter', sans-serif;
+    
+}
+.containerApp {
+    background-color: #f1f2f6;
+}
+/* .logo  {
+    width: 25%;
+    color: rgb(17, 15, 15);
+    cursor: pointer;
+    
+} */
+/* .cart a {
+  
+    display: flex;
+    color: rgb(34, 40, 226);
+    position: relative;
+    
+} */

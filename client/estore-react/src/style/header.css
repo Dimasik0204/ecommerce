@@ -1,0 +1,91 @@
+.page {
+    margin: 0px;
+    padding: 0px;
+}
+.copyright {
+    text-align: center;
+    color:  #fcefef;
+}
+
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    width: 60%; 
+   
+}
+
+.navLink {
+    font-size: 25px;
+    color:  #fcefef;
+}
+.nav_link :active {
+    font-size: 25px;
+    color: rgb(237, 129, 6);
+    text-decoration: underline;
+    font-weight:bold;
+}
+.nav_link :hover {
+    font-size: 25px;
+    color: rgb(237, 129, 6);
+    text-decoration: underline;
+    font-weight:bold;
+}
+
+.logo{
+    display: flex;
+    /* margin-left: 10px; */
+    color:  #fcefef;
+   
+}
+.name {
+    width: 70%;
+    color:  #fcefef;
+    font-family: 'Lobster', cursive;
+    text-decoration: none;
+}
+.name :link {
+   text-decoration: none;
+
+}
+.logoIcon {
+    color:  #fcefef;
+    
+    
+}
+.containerLogo {
+   width: 25%;
+   margin-left: 20px;
+   display: flex;
+
+}
+.navigation {
+  display: flex;  
+  height: 80px;
+  padding: 10px;
+  margin-bottom: 15px;
+  justify-content: space-between;
+  background-color: #03055eef;
+}
+.footer {
+    background-color: #03055eed;
+    height: 60px;
+    padding: 20px;
+
+}
+.headerComponent {
+    display: flex;
+    justify-content: end;
+    width: 70%;
+    margin-right: 10px;
+}
+
+.username {
+    color: rgb(193, 129, 129);
+    font-size: 20px;
+}
+.shopnow {
+    margin-bottom: 30%;
+    background-color: rgba(174, 180, 250, 0.397);
+    padding: 10px;
+    color: #fcefef;
+}

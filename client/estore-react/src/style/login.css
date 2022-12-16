@@ -1,0 +1,75 @@
+.loginContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr
+}
+
+.loginImage{
+    display: grid;
+    justify-self: center;
+    margin-bottom: 30px;
+}
+.welcome{
+    font-family: 'Lobster', cursive;
+}
+.welcomeSide {
+    display: grid;
+    justify-items: center;
+}
+.loginForm{
+    width: 100%;
+    display: grid;
+    /* margin-top: 10px;
+    margin-left: 40px; */
+    row-gap: 2px;
+
+}
+.loginTitle{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 40px;
+}
+.loginSided{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.loginNames{
+    font-family: 'Roboto', sans-serif;
+}
+.buttonLogin{
+    display: grid;
+    border-radius: 6px;
+    background-color: #fa8900;
+    justify-self: stretch;
+    align-self: center;
+    font-weight: 500;
+    padding: 2px;
+    row-gap: 5px;
+    margin-top: 15px;
+}
+.buttonLogin:hover{
+    display: grid;
+    background-color: #fb5607;
+    font-family: 'Roboto', sans-serif; 
+}
+.input{
+    border-radius: 5px;
+}
+.form-button{
+    margin-left: 40px;
+    display: grid;
+    justify-items: center;
+    width: 40%;
+}
+.login-registration{
+
+    font-family: 'Roboto', sans-serif; 
+    color: black;
+    justify-self: end;
+    align-self: end;
+    margin-top: 5px;
+    font-weight: 400px;
+
+}
+.login-registration:hover{
+   color:#fb5607
+}
+  
