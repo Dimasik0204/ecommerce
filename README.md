@@ -27,7 +27,7 @@
 - Not available yet
 
 ## Featured programs: 
-- HTML, CSS, JavaScript, Node.js, ElephantSQL, Stripe, API(Third party), React-Bootstrap, Beekeeper Studio
+- HTML, CSS, JavaScript, React, Redux, Node.js, ElephantSQL, Stripe, API(Third party), React-Bootstrap, Beekeeper Studio
 
 ## Developer:
 - [Dmitry Shunin](https://https://github.com/Dimasik0204) 
